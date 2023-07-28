@@ -1,0 +1,6 @@
+chess-models/gtp2-300k/*
+chess-models/gtp2-500k/*
+
+
+!chess-models/gtp2-300k/.gitignore
+!chess-models/gtp2-500k/.gitignore
