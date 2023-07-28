@@ -70,7 +70,7 @@ def main():
     print("Preparing the language Model...")
     
     # Load Model and Tokenizer
-    model = GPT2LMHeadModel.from_pretrained('./chess-models/gtp2-300k')
+    model = GPT2LMHeadModel.from_pretrained('./chess-models/gpt2-300k')
     tokenizer = GPT2Tokenizer.from_pretrained('./chess-models/tokenizer/')
     
     board = init_board()
