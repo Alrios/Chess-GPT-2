@@ -11,7 +11,6 @@ This repository is a Bachelor's thesis project, where two GPT2 models were train
 
 ```bash
 Chess-GPT-2/
-
 ├── chess-models/
 │   ├── gpt2-300k/
 │   │   ├── ...
